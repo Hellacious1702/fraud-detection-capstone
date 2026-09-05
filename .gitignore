@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.pptx
+~$*
+.DS_Store
+.ruff_cache/
